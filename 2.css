@@ -1,0 +1,18 @@
+tr
+{
+    color: white;
+}
+th
+{
+    color: greenyellow;
+}
+th
+{
+    background-color: #000;
+    font-size: 14px;
+}
+th:hover
+{
+    background-color: #cd5e5e99;
+    font-size: 20px;
+}
